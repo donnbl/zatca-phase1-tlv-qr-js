@@ -1,0 +1,10 @@
+{
+  "name": "zatca-phase1-tlv-qr-js",
+  "version": "1.0.0",
+  "description": "Zero-dependency UTF-8 safe Saudi ZATCA Phase-1 TLV-Base64 QR encoder for browser & Node.js",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://dprime.org/docs/zatca-tlv-qr-code-open-source/",
+  "keywords": ["zatca", "fatoora", "saudi", "tlv", "qr", "vat", "invoice", "base64"]
+}
